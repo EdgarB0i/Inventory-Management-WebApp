@@ -1,5 +1,5 @@
 # Inventory-Management-WebApp
-This is a solo project to develop a simple inventory management web app using Node.js with the following possible requirements and features:
+This is a solo project to develop a simple inventory management web app using Laravel,Bootstrap,MySQL (following MVC architecture) with the following requirements and features:
 
 Requirement1:
 Checking status of inventory.
