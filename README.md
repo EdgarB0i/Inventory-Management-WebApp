@@ -5,7 +5,7 @@ Requirement1:
 Checking status of inventory.
 
 Features:
-*Displays total inventory space of registered user(user inputs this information when registering).
+*Displays total used inventory space.
 *Displays list of all items present in the inventory along with quantity.
 *Calculates total number of products present in inventory.
 *Calculates percentage of inventory space that is filled up as well as remaining free space.
