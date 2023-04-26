@@ -46,4 +46,4 @@ Features:
 * Number of present warehouse worker can be increased or decreased.
 * Displays whether there is a shortage in staff members or a surplus
 
-**Folders that come with Laravel like Node_modules and vendor are not included in the repository**
+**Folders that come with Laravel like Node_modules and vendor are not included in the repository. Check out the Screenshots folder to see how the webapp looks like.**
